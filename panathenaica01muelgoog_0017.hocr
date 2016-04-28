@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./panathenaica01muelgoog_0017.png"; bbox 0 0 2920 4868; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 471 1848 1115 1923">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 471 1848 1115 1923">
+     <span class='ocr_line' id='line_1_1' title="bbox 471 1848 1115 1923; baseline 0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 471 1848 736 1922; x_wconf 87' lang='lat' dir='ltr'>HUNCCE</span> <span class='ocrx_word' id='word_1_2' title='bbox 778 1849 1115 1923; x_wconf 83' lang='lat' dir='ltr'><strong>LIBELLUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 613 2584 989 2668">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 613 2584 989 2668">
+     <span class='ocr_line' id='line_1_2' title="bbox 613 2584 989 2668; baseline -0.011 0"><span class='ocrx_word' id='word_1_3' title='bbox 613 2584 679 2668; x_wconf 75' lang='lat' dir='ltr'>Ex&#39;</span> <span class='ocrx_word' id='word_1_4' title='bbox 695 2605 826 2667; x_wconf 74' lang='lat' dir='ltr'>Ammo</span> <span class='ocrx_word' id='word_1_5' title='bbox 844 2605 989 2665; x_wconf 69' lang='lat' dir='ltr'>cmo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1464 4868">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1464 4868">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1464 4868; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1464 4868; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
